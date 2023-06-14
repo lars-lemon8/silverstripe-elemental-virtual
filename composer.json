@@ -15,7 +15,7 @@
         "dnadesign/silverstripe-elemental": "^3 || ^4 || ^5",
         "silverstripe/tagfield": "^2.0",
         "silverstripe/vendor-plugin": "^1.0 || ^2",
-        "silverstripe/admin": "^1.5"
+        "silverstripe/admin": "^1.5 || ^2"
     },
     "require-dev": {
         "silverstripe/recipe-testing": "^2"
